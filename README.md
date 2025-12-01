@@ -47,6 +47,9 @@ Sound-Based Event Trigger System
 ✔️ Identified as a high-potential young innovator project
 
 
+### 📊 Project Presentation
+The PPT presentation is available on request (email or LinkedIn).
+
 🧭 Use Cases
 
 Public spaces (stations, malls, markets)
